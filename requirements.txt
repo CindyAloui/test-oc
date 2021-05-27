@@ -13,7 +13,7 @@ azure-mgmt-keyvault==2.2.0
 azure-mgmt-resource==13.0.0
 azure-mgmt-storage==11.2.0
 azureml-automl-core==1.28.0
-azureml-core==1.28.0
+azureml-core==1.29.0
 azureml-dataprep==2.15.1
 azureml-dataprep-native==33.0.0
 azureml-dataprep-rslex==1.13.0
