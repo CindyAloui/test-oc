@@ -2,7 +2,7 @@ import flask
 #from flask_cors import CORS
 import json
 import os
-import tensorflow
+#import tensorflow
 
 # Initializing flask app
 app = flask.Flask(__name__)
